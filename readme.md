@@ -1,7 +1,7 @@
 #Installation
 
-Follow the instructions in config.php to setup the app
-
+Upload zync to your server (apache, php5 and mysql required) 
+and follow the instructions in config.php to setup the app
 
 #Cronjob
 
